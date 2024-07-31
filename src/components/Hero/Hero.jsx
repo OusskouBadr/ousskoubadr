@@ -30,7 +30,7 @@ function Hero() {
         </div>
         <div className={styles.info}>
             <h1>Ousskou <br /> Badr</h1>
-            <h2>Frontend Developer</h2>
+            <h2>Full_Stack Developper</h2>
             <span>
                 <a href="https://twitter.com" target="_blank">
                     <img src={twitterIcon} alt="Twitter icon"/>
@@ -43,7 +43,7 @@ function Hero() {
                 </a>
             </span>
             <p className={styles.description}>
-                With a passion for developping modern React web apps for commercial businesses.
+            I’m passionate about building modern React web apps. I love turning ideas into practical, stylish solutions and enjoy the challenge of creating something new and impactful.
             </p>
             <a href={CV} download>
                 <button className='hover'>Resume</button>
