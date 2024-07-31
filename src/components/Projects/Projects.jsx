@@ -5,7 +5,7 @@ import weather from '../../assets/meteoapp.jpg'
 import bookstore from '../../assets/bookstore.jpg'
 import tothetop from '../../assets/Thetop.png'
 import quizz from '../../assets/quizz.jpg'
-import currentcoding '../../assets/currentlycoding.png'
+import currentcoding from '../../assets/currentlycoding.png'
 import ProjectCard from '../../common/ProjectCard'
 
 function Projects() {
