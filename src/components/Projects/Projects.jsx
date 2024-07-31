@@ -19,7 +19,7 @@ function Projects() {
             <ProjectCard src={bookstore} link="https://github.com/OusskouBadr/Bookstore" h3="Bookstore" p='Bookstore Application with MERN'/>
             <ProjectCard src={tothetop} link="https://github.com/OusskouBadr/Tothetop" h3="ToTheTop" p='Blog'/>
             <ProjectCard src={quizz} link="https://github.com/OusskouBadr/Quizzapp" h3="Quizz" p='Basic Quizz'/>
-            <ProjectCard src={currentcoding} link="https://www.ousskoubadr.com" h3="Occuped" p="Currently Coding"/>
+            <ProjectCard src={currentcoding} link="https://www.ousskoubadr.com" h3="Coding" p="Currently Coding"/>
         </div>
     </section>
   )
